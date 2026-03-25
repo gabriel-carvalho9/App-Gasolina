@@ -1,5 +1,5 @@
 ⛽ Gasolina ou Álcool - Flutter
-App simples desenvolvido em aula para calcular o melhor custo-benefício entre combustíveis, utilizando a regra dos 70%.
+App simples desenvolvido em aula para calcular o melhor custo-benefício entre combustíveis.
 
 🎯 Objetivos
 Praticar a base do Flutter e Dart.
