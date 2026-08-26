@@ -5,6 +5,8 @@ void main() => runApp(MaterialApp(
 ));
 
 class GasolinaApp extends StatefulWidget{
+  const GasolinaApp({super.key});
+
 
   @override
   _GasolinaAppState createState() => _GasolinaAppState();
